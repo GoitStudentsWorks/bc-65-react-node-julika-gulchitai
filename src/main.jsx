@@ -14,7 +14,7 @@ import './index.css';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <Provider store={store}>
     <PersistGate persistor={persistedStore}>
-      <BrowserRouter basename="/capybara-components-frontend">
+      <BrowserRouter basename="/bc-65-react-node-julika-gulchitai">
         <ThemeComponent>
           <App />
           <Global />

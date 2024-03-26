@@ -12,5 +12,5 @@ export default defineConfig({
           assets: '/src/assets'
         },
       },
-      base: '/capybara-components-frontend/',
+      base: '/bc-65-react-node-julika-gulchitai/',
     });
